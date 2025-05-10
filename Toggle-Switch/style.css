@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+    background: linear-gradient(#69b2bd, #fe817f);
+}
+
+.main {
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.off-button {
+    padding: 11px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+    font-size: 1.25rem;
+}
+
+.on-button {
+    padding: 11px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    font-size: 15px;
+    cursor: pointer;
+    font-size: 1.5rem;
+}
+
+.css-button {
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+}
