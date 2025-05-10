@@ -1,4 +1,4 @@
-# vanilla-JavaScript-mini-projects
+# Vanilla-JavaScript-Mini-Projects
 [Calculator](https://neha-28-fluff.github.io/Vanilla-JavaScript-Mini-Projects/Calculator/)<br><br>
 [Coin-Flip](https://neha-28-fluff.github.io/Vanilla-JavaScript-Mini-Projects/Coin-Flip/)<br><br>
 [Rock-Paper-Scissors](https://neha-28-fluff.github.io/Vanilla-JavaScript-Mini-Projects/Rock-Paper-Scissors/)<br><br>
