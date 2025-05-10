@@ -1,0 +1,1 @@
+# vanilla-JavaScript-mini-projects
